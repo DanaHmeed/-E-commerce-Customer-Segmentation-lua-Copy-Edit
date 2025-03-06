@@ -67,3 +67,8 @@ All datasets were cleaned and merged into a single customer-level dataset.
 
 ---
 
+✅ **Final Business Takeaways:**
+1. **Boost retention** for loyal users (Cluster 0) through exclusive deals.  
+2. **Increase engagement** for inactive users (Cluster 1) via targeted promotions.  
+3. **Encourage coupon burning** for customers who claim but don’t use them (Cluster 2).  
+4. **Sustain moderate users** (Cluster 3) with occasional incentives.  
